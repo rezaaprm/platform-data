@@ -1,0 +1,224 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "Hugh Jackman",
+      "birth_date": "October 12, 1968",
+      "Position": "Wolverine",
+      "International": "Australia",
+      "Team": "X-Men",
+      "debut_film": "X-Men (2000)",
+      "powers": "Healing factor, adamantium claws, enhanced senses",
+      "Poster": "https://raw.githubusercontent.com/rezaaprm/platform-data/main/poster/Hugh_Jackman.jpg"
+    },
+    {
+      "no": "2",
+      "name": "Patrick Stewart",
+      "birth_date": "July 13, 1940",
+      "Position": "Professor Charles Xavier",
+      "International": "United Kingdom",
+      "Team": "X-Men",
+      "debut_film": "X-Men (2000)",
+      "powers": "Telepathy, mind control, astral projection",
+      "Poster": "https://raw.githubusercontent.com/rezaaprm/platform-data/main/poster/Patrick_Stewart.jpg"
+    },
+    {
+      "no": "3",
+      "name": "Ian McKellen",
+      "birth_date": "May 25, 1939",
+      "Position": "Magneto",
+      "International": "United Kingdom",
+      "Team": "Brotherhood / X-Men",
+      "debut_film": "X-Men (2000)",
+      "powers": "Magnetism manipulation, metal control",
+      "Poster": "https://raw.githubusercontent.com/rezaaprm/platform-data/main/poster/Ian_McKellen.jpg"
+    },
+    {
+      "no": "4",
+      "name": "Halle Berry",
+      "birth_date": "August 14, 1966",
+      "Position": "Storm",
+      "International": "United States",
+      "Team": "X-Men",
+      "debut_film": "X-Men (2000)",
+      "powers": "Weather manipulation, flight, lightning control",
+      "Poster": "https://raw.githubusercontent.com/rezaaprm/platform-data/main/poster/Halle_Berry.jpg"
+    },
+    {
+      "no": "5",
+      "name": "Anna Paquin",
+      "birth_date": "July 24, 1982",
+      "Position": "Rogue",
+      "International": "Canada / New Zealand",
+      "Team": "X-Men",
+      "debut_film": "X-Men (2000)",
+      "powers": "Power absorption via touch, flight, super strength",
+      "Poster": "https://raw.githubusercontent.com/rezaaprm/platform-data/main/poster/Anna_Paquin.jpg"
+    },
+    {
+      "no": "6",
+      "name": "James Marsden",
+      "birth_date": "September 18, 1973",
+      "Position": "Cyclops",
+      "International": "United States",
+      "Team": "X-Men",
+      "debut_film": "X-Men (2000)",
+      "powers": "Optic blast beams",
+      "Poster": "https://raw.githubusercontent.com/rezaaprm/platform-data/main/poster/James_Marsden.jpg"
+    },
+    {
+      "no": "7",
+      "name": "Rebecca Romijn",
+      "birth_date": "November 6, 1972",
+      "Position": "Mystique",
+      "International": "United States",
+      "Team": "Brotherhood",
+      "debut_film": "X-Men (2000)",
+      "powers": "Shapeshifting, enhanced agility, longevity",
+      "Poster": "https://raw.githubusercontent.com/rezaaprm/platform-data/main/poster/Rebecca_Romijn.jpg"
+    },
+    {
+      "no": "8",
+      "name": "Shawn Ashmore",
+      "birth_date": "October 7, 1979",
+      "Position": "Iceman",
+      "International": "Canada",
+      "Team": "X-Men",
+      "debut_film": "X2 (2003)",
+      "powers": "Cryokinesis, ice armor, flight",
+      "Poster": "https://raw.githubusercontent.com/rezaaprm/platform-data/main/poster/Shawn_Ashmore.jpg"
+    },
+    {
+      "no": "9",
+      "name": "Aaron Stanford",
+      "birth_date": "December 27, 1978",
+      "Position": "Pyro",
+      "International": "United States",
+      "Team": "Brotherhood",
+      "debut_film": "X2 (2003)",
+      "powers": "Pyrokinesis, fire manipulation",
+      "Poster": "https://raw.githubusercontent.com/rezaaprm/platform-data/main/poster/Aaron_Stanford.jpg"
+    },
+    {
+      "no": "10",
+      "name": "Alan Cumming",
+      "birth_date": "January 27, 1965",
+      "Position": "Nightcrawler",
+      "International": "Germany / United Kingdom",
+      "Team": "X-Men",
+      "debut_film": "X2 (2003)",
+      "powers": "Teleportation, prehensile tail, wall-crawling",
+      "Poster": "https://raw.githubusercontent.com/rezaaprm/platform-data/main/poster/Alan_Cumming.jpg"
+    },
+    {
+      "no": "11",
+      "name": "Kelsey Grammer",
+      "birth_date": "February 21, 1955",
+      "Position": "Beast",
+      "International": "United States",
+      "Team": "X-Men",
+      "debut_film": "X-Men: The Last Stand (2006)",
+      "powers": "Super strength, agility, intellect, blue fur",
+      "Poster": "https://raw.githubusercontent.com/rezaaprm/platform-data/main/poster/Kelsey_Grammer.jpg"
+    },
+    {
+      "no": "12",
+      "name": "Vinnie Jones",
+      "birth_date": "January 5, 1965",
+      "Position": "Juggernaut",
+      "International": "United Kingdom",
+      "Team": "Villain",
+      "debut_film": "X-Men: The Last Stand (2006)",
+      "powers": "Invulnerability, super strength, unstoppable momentum",
+      "Poster": "https://raw.githubusercontent.com/rezaaprm/platform-data/main/poster/Vinnie_Jones.jpg"
+    },
+    {
+      "no": "13",
+      "name": "Daniel Cudmore",
+      "birth_date": "July 3, 1980",
+      "Position": "Colossus",
+      "International": "Canada",
+      "Team": "X-Men",
+      "debut_film": "X2 (2003)",
+      "powers": "Organic steel transformation, super strength",
+      "Poster": "https://raw.githubusercontent.com/rezaaprm/platform-data/main/poster/Daniel_Cudmore.jpg"
+    },
+    {
+      "no": "14",
+      "name": "Dania Ramirez",
+      "birth_date": "November 8, 1978",
+      "Position": "Callisto",
+      "International": "Dominican Republic / United States",
+      "Team": "Morlocks",
+      "debut_film": "X-Men: The Last Stand (2006)",
+      "powers": "Enhanced senses, agility, leadership",
+      "Poster": "https://raw.githubusercontent.com/rezaaprm/platform-data/main/poster/Dania_Ramirez.jpg"
+    },
+    {
+      "no": "15",
+      "name": "Ben Foster",
+      "birth_date": "October 29, 1980",
+      "Position": "Angel",
+      "International": "United States",
+      "Team": "X-Men",
+      "debut_film": "X-Men: The Last Stand (2006)",
+      "powers": "Flight, healing tears, enhanced strength",
+      "Poster": "https://raw.githubusercontent.com/rezaaprm/platform-data/main/poster/Ben_Foster.jpg"
+    },
+    {
+      "no": "16",
+      "name": "Booboo Stewart",
+      "birth_date": "January 21, 1994",
+      "Position": "Warpath",
+      "International": "United States / Canada",
+      "Team": "X-Men",
+      "debut_film": "X-Men: Days of Future Past (2014)",
+      "powers": "Super strength, speed, durability, flight",
+      "Poster": "https://raw.githubusercontent.com/rezaaprm/platform-data/main/poster/Booboo_Stewart.jpg"
+    },
+    {
+      "no": "17",
+      "name": "Adan Canto",
+      "birth_date": "December 5, 1981",
+      "Position": "Sunspot",
+      "International": "Mexico",
+      "Team": "X-Men",
+      "debut_film": "X-Men: Days of Future Past (2014)",
+      "powers": "Solar energy absorption, flight, super strength",
+      "Poster": "https://raw.githubusercontent.com/rezaaprm/platform-data/main/poster/Adan_Canto.jpg"
+    },
+    {
+      "no": "18",
+      "name": "Evan Peters",
+      "birth_date": "January 20, 1987",
+      "Position": "Quicksilver",
+      "International": "United States",
+      "Team": "X-Men (ally)",
+      "debut_film": "X-Men: Days of Future Past (2014)",
+      "powers": "Super speed, time perception, sonic boom",
+      "Poster": "https://raw.githubusercontent.com/rezaaprm/platform-data/main/poster/Evan_Peters.jpg"
+    },
+    {
+      "no": "19",
+      "name": "Omari Hardwick",
+      "birth_date": "January 9, 1974",
+      "Position": "Bishop",
+      "International": "United States",
+      "Team": "X-Men",
+      "debut_film": "X-Men: Days of Future Past (2014)",
+      "powers": "Energy absorption, redirection, time travel",
+      "Poster": "https://raw.githubusercontent.com/rezaaprm/platform-data/main/poster/Omari_Hardwick.jpg"
+    },
+    {
+      "no": "20",
+      "name": "Brianna Hildebrand",
+      "birth_date": "December 21, 1996",
+      "Position": "Negasonic Teenage Warhead",
+      "International": "United States",
+      "Team": "X-Force",
+      "debut_film": "Deadpool (2016)",
+      "powers": "Atomic blasts, precognition, telepathy",
+      "Poster": "https://raw.githubusercontent.com/rezaaprm/platform-data/main/poster/Brianna_Hildebrand.jpg"
+    }
+  ]
+}
